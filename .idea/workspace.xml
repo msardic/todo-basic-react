@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcc752f2-c17b-47b5-b7aa-78222127a283" name="Default Changelist" comment="" />
+    <list default="true" id="dcc752f2-c17b-47b5-b7aa-78222127a283" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WQfm4v6qARhm15YXjFeEex74wm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,8 +30,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -40,11 +57,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579086894132</updated>
-      <workItem from="1579086895588" duration="276000" />
+      <workItem from="1579086895588" duration="7151000" />
+      <workItem from="1579164459501" duration="1190000" />
+      <workItem from="1579676807002" duration="4225000" />
+      <workItem from="1579688748903" duration="11350000" />
+      <workItem from="1579767073897" duration="2728000" />
+      <workItem from="1579777441341" duration="12086000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="160" y="262" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579767006996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="160" y="262" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579767006996" />
+    <state x="1170" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579087308238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1170" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579087308238" />
+    <state x="92" y="118" key="CommitChangelistDialog2" timestamp="1579700288586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="118" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579700288586" />
+    <state x="268" y="276" key="FileChooserDialogImpl" timestamp="1579676816510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="268" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579676816510" />
+    <state x="675" y="149" width="983" height="812" key="SettingsEditor" timestamp="1579689104607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="675" y="149" width="983" height="812" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579689104607" />
+    <state x="151" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1579689112666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="151" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579689112666" />
   </component>
 </project>
